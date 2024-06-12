@@ -1,4 +1,4 @@
 UserManager
 
-npm i
+npm i/n
 npm run setup-and-start
