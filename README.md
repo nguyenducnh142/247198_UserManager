@@ -1,1 +1,4 @@
-# 247198_UserManager
+UserManager
+
+npm i
+npm run setup-and-start
